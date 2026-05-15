@@ -4,8 +4,8 @@
   </a> 
 </div>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karthiKeyanMP267/karthiKeyanMP267/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution Animation" src="https://github.com/karthiKeyanMP267/karthiKeyanMP267/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Contribution Animation" src="dist/github-contribution-grid-snake.svg">
 </picture>
 
 <br />
