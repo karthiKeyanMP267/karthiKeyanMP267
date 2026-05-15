@@ -1,0 +1,76 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1ACD55&center=true&width=435&lines=Hi+I'm+Dharanidharan+S+R" alt="Typing SVG" />
+  </a> 
+</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/karthiKeyanMP267/karthiKeyanMP267/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake Contribution Animation" src="https://github.com/karthiKeyanMP267/karthiKeyanMP267/blob/manual-run-output/docker/github-contribution-grid-snake.svg">
+</picture>
+
+<br />
+<br />
+
+## Programming Languages
+<p align="left">
+  <p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+</p>
+
+## Frontend
+<p align="left">
+  <p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+</p>
+
+## Backend and Frameworks
+<p align="left">
+  <p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+</p>
+
+## Databases
+<p align="left">
+  <p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+</p>
+
+## Devops
+<p align="left">
+  <p>
+  <img src="https://skillicons.dev/icons?i=git,docker,githubactions,jenkins,terraform,aws" />
+</p>
+</p>
+
+## Tools 
+<p align="left">
+  <p>
+  <img src="https://skillicons.dev/icons?i=postman,figma,vscode" />
+</p>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiKeyanMP267&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+<br />
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthikeyan-m-p-422b2b335">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:karthikeyanmp267@gmail.com.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthiKeyanMP267&label=Profile%20Views&color=1ACD55&style=for-the-badge" alt="profile views" />
+</p>
